@@ -1,3 +1,5 @@
+Based on https://jelinden.fi/blog/aws-cdk-setup-for-autoscaling-with-ec2-spot-instances/xi7mNppZg
+
 # Useful commands
 
  * `npm run build`   compile typescript to js
