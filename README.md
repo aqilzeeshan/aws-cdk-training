@@ -1,4 +1,5 @@
-Based on https://jelinden.fi/blog/aws-cdk-setup-for-autoscaling-with-ec2-spot-instances/xi7mNppZg
+* Based on https://jelinden.fi/blog/aws-cdk-setup-for-autoscaling-with-ec2-spot-instances/xi7mNppZg
+* Using spot instance with ASG and ALB
 
 # Useful commands
 
